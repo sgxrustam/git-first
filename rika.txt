@@ -1,2 +1,4 @@
+print("hello world")
+ptint("bay")
 
-print("hello rika")
+ 
