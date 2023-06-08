@@ -1,8 +1,4 @@
 print("hello world1s")
 ptint("baybay")
-<<<<<<< HEAD
-print("brach2")
-=======
-print
->>>>>>> 4469470 (Revert "test branch")
+
 
